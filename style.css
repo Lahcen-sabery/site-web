@@ -1,0 +1,18 @@
+.mar0 MARQUEE{
+color:green;
+font-size:20px;
+font-weight:bold;
+height:30px;
+margin-top:2px;
+width:800px;
+                opacity:10;
+}
+.mar1 MARQUEE{
+color:red;
+font-size:20px;
+font-weight:bold;
+height:30px;
+margin-top:2px;
+width:800px;
+                opacity:10;
+}
